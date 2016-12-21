@@ -1,0 +1,14 @@
+---
+---
+@charset "utf-8";
+
+$background-color: red;
+
+// Import partials from the `minima` theme.
+@import "{{ site.theme }}";
+
+/**
+
+// theme {{ site.theme }}
+
+**/
