@@ -1,0 +1,5 @@
+---
+---
+/* importing {{ site.theme }}*/
+@import "{{ site.theme }}";
+body { background: red; }
